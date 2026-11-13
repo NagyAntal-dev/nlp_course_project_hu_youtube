@@ -1,0 +1,35 @@
+[project]
+name = "szovegbanyaszat"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.15.0",
+    "bertopic>=0.17.4",
+    "datasets>=5.2.0",
+    "emoji>=2.16.0",
+    "evaluate>=0.4.6",
+    "gensim>=4.4.0",
+    "hdbscan>=0.8.44",
+    "huggingface-hub>=2.4.0",
+    "huspacy>=0.12.1",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.5.7",
+    "keybert>=0.9.0",
+    "matplotlib>=3.11.2",
+    "nltk>=3.10.4",
+    "numpy>=2.4.6",
+    "pandas>=3.1.1",
+    "pyarrow>=26.0.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "sentence-transformers>=6.3.0",
+    "torch>=2.15.0",
+    "tqdm>=4.70.1",
+    "transformers>=4.48",
+    "umap-learn>=0.6.0",
+    "wordcloud>=1.9.6",
+    "yake>=0.7.3",
+]
